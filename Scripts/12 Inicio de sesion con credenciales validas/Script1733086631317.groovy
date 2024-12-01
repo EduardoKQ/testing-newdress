@@ -30,3 +30,9 @@ WebUI.waitForElementClickable(findTestObject('Object Repository/Page_NEW DRESS/b
 
 WebUI.click(findTestObject('Object Repository/Page_NEW DRESS/button_Iniciar_Sesion'))
 
+// Wait for main page to load
+WebUI.delay(5)
+assert WebUI.getUrl().contains('home')
+
+WebUI.closeBrowser()
+

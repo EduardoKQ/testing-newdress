@@ -28,3 +28,4 @@ WebUI.waitForElementVisible(findTestObject('Object Repository/Page_NEW DRESS/img
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Page_NEW DRESS/ion-col_cielo claro'))
 
+WebUI.closeBrowser()
