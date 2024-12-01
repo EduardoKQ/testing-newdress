@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>011e52e2-c321-48b2-88a6-7bf8d86e2542</webElementGuid>
+      <webElementGuid>f2410e0d-538f-4b73-917c-08043d880f96</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>native-wrapper sc-ion-input-md sc-ion-input-md-s</value>
-      <webElementGuid>ce1053d4-292d-4616-8b7c-29421d620496</webElementGuid>
+      <webElementGuid>1e56b784-d5ce-4c75-ab94-0ae45c4b6b9a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;plt-desktop md hydrated&quot;]/body[1]/app-root[1]/ion-app[@class=&quot;md ion-page hydrated&quot;]/ion-router-outlet[@class=&quot;hydrated&quot;]/app-login[@class=&quot;ion-page&quot;]/ion-content[@class=&quot;md content-ltr hydrated&quot;]/ion-list[@class=&quot;list ion-padding md list-md list-lines-none list-md-lines-none hydrated&quot;]/ion-input[@class=&quot;custom ng-untouched ng-pristine ng-valid ion-untouched ion-pristine ion-valid sc-ion-input-md-h sc-ion-input-md-s md input-fill-outline input-label-placement-floating hydrated&quot;]/label[@class=&quot;input-wrapper sc-ion-input-md&quot;]/div[@class=&quot;native-wrapper sc-ion-input-md sc-ion-input-md-s&quot;]</value>
-      <webElementGuid>099559ff-4031-42d5-9ba4-00c2c0db504d</webElementGuid>
+      <webElementGuid>5a5f39fa-5795-44fe-90db-813f778e7759</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Usuario'])[2]/following::div[1]</value>
-      <webElementGuid>b003d14d-c635-4a49-9b1c-e29bd16173ac</webElementGuid>
+      <webElementGuid>242ff140-29e0-4d1e-aeee-99f8df022db6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingresa a tu cuenta'])[1]/following::div[8]</value>
-      <webElementGuid>34744b38-3cf3-448e-86fa-c137b4e63088</webElementGuid>
+      <webElementGuid>9a1c10c9-859e-4378-b1a0-09b45ae76d84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Contraseña'])[2]/preceding::div[6]</value>
-      <webElementGuid>fce98c46-495d-487e-b903-ad8d488cb031</webElementGuid>
+      <webElementGuid>5be84726-ea9d-4e5e-bf42-ce9459e90478</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Olvidaste la Contraseña?'])[1]/preceding::div[9]</value>
-      <webElementGuid>17dde9bd-85ea-4a23-8880-62076e756121</webElementGuid>
+      <webElementGuid>993925ff-dd01-4f52-ac19-b4a6ecca1825</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +85,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]</value>
-      <webElementGuid>7b094982-88d2-4951-9724-e09e136cbe62</webElementGuid>
+      <webElementGuid>da1ffd17-8898-4f1c-abd6-9f99534978b1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

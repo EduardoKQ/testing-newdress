@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_button-inner-ESS-10b-44f</name>
+   <name>span_button-inner-ESS-5b3-7ee</name>
    <tag></tag>
-   <elementGuidId>6501a9ac-dd89-4c38-a1f0-0f9d07901141</elementGuidId>
+   <elementGuidId>d1efaef2-b37d-43a4-94f0-9420b8cfe3ff</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.button-native > span.button-inner</value>
+         <value>a.button-native > span.button-inner</value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -18,7 +18,7 @@
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;INICIAR SESION&quot;i]</value>
+         <value>internal:role=tab[name=&quot;exploracion&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>5b2874f0-1489-42d6-afa0-e3e93468bc8f</webElementGuid>
+      <webElementGuid>2e6fc4e1-34d6-4b4f-8f25-c4387eb5aac7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,39 +37,23 @@
       <name>class</name>
       <type>Main</type>
       <value>button-inner</value>
-      <webElementGuid>fbca2c1a-cb2d-432b-ae15-66ff08fcb69a</webElementGuid>
+      <webElementGuid>5dbdcdf2-8787-49fb-bec8-b24286eb6b0c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/button[@class=&quot;button-native&quot;]/span[@class=&quot;button-inner&quot;]</value>
-      <webElementGuid>24133279-e0ce-46f9-b42a-b121d05bbcd0</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ref_element_is_shadow_root</name>
-      <type>Main</type>
-      <value>true</value>
-      <webElementGuid>a6a2a878-b640-417c-854e-756580cf0be8</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ref_element_is_shadow_root</name>
-      <type>Main</type>
-      <value>true</value>
-      <webElementGuid>1ac3b604-5193-48b5-91b1-be61845f0436</webElementGuid>
+      <value>/a[@class=&quot;button-native&quot;]/span[@class=&quot;button-inner&quot;]</value>
+      <webElementGuid>4dea2ed8-7c92-4d1a-8a0e-63f55b3dea82</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/Page_NEW DRESS/ion-button_INICIAR SESION-W DRESS-10b</value>
-      <webElementGuid>d7819c85-bd99-4da6-b925-839978066265</webElementGuid>
+      <value>Object Repository/Page_NEW DRESS/ion-tab-button_exploracion-W DRESS-5b3</value>
+      <webElementGuid>b5356c84-5bf0-45cd-9745-c77ed1364522</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +61,7 @@
       <name>ref_element_is_shadow_root</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>447d8d8a-45a4-4fe6-9103-eb3863a43f2f</webElementGuid>
+      <webElementGuid>d7825b26-b8a9-4fd0-a527-7945b23de1de</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,6 +69,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='']/parent::*</value>
-      <webElementGuid>ae056774-e018-4536-96b1-dbf04a06a921</webElementGuid>
+      <webElementGuid>6566b9c6-da72-4df1-8245-d4d2b568c302</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

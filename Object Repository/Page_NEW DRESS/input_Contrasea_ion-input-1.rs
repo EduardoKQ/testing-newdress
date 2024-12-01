@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>8b450a14-9358-47ea-b558-442617e4184c</webElementGuid>
+      <webElementGuid>de7194b7-513f-49b3-b16a-e084ec5e55f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>native-input sc-ion-input-md</value>
-      <webElementGuid>c3cebafe-71a9-4129-aaae-ec2cf162ba03</webElementGuid>
+      <webElementGuid>ffbce638-122b-41e9-8c47-1b2aabd6a136</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>ion-input-1</value>
-      <webElementGuid>aad4eca9-e9db-4765-8bc0-fb529d75e4fe</webElementGuid>
+      <webElementGuid>0f746439-d4e8-4eeb-94d8-0a79b421d37e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>autocapitalize</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>f3aed3fe-2bae-4be7-9117-0efad95c1e1e</webElementGuid>
+      <webElementGuid>ae945d66-f5d3-42d5-a13c-02916b53e2e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>0b9d7f8a-34ed-4996-97f5-cd62df336ee2</webElementGuid>
+      <webElementGuid>723b9cf5-95b7-4c11-9bce-63f7e3690039</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>autocorrect</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>8f4623cb-3288-42db-9f11-71a015224fa5</webElementGuid>
+      <webElementGuid>b9afe14b-5083-4215-8a69-b5ab6349fc10</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>name</name>
       <type>Main</type>
       <value>ion-input-1</value>
-      <webElementGuid>c0ffa7bd-4cdb-4f49-b282-0bdc3f61202a</webElementGuid>
+      <webElementGuid>25d3be74-e28b-4d58-9d06-e29be353d1e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Ingrese su Contraseña</value>
-      <webElementGuid>fed4a63f-2dde-4491-bb48-4d5ed2ea292d</webElementGuid>
+      <webElementGuid>ea4871d7-914d-49e5-af17-77bb4a4ec222</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>472b9687-7e93-4566-965d-6bbcc75e6faf</webElementGuid>
+      <webElementGuid>515599e6-aad9-4a91-9a22-0d7318e7a0e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -101,7 +101,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>18e532a7-ab50-4ce1-b74c-34e3717a0b70</webElementGuid>
+      <webElementGuid>cfaac684-4af4-4752-b256-1ca3f55c52c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ion-input-1&quot;)</value>
-      <webElementGuid>05c2a0ac-69e9-43bb-858e-d4a80d6efc5e</webElementGuid>
+      <webElementGuid>56d1693b-fa40-42c8-a2a4-741f05f095b2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='ion-input-1']</value>
-      <webElementGuid>10f77c54-5781-402e-bbd4-7c3292001a97</webElementGuid>
+      <webElementGuid>19ed36e7-09a7-4e43-b70e-3303f01ea05d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//ion-input[2]/label/div[3]/input</value>
-      <webElementGuid>59edf72f-18fd-4422-8519-6399c8290855</webElementGuid>
+      <webElementGuid>e8aa580f-d89c-4df0-9d83-a7527197fcb9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'ion-input-1' and @name = 'ion-input-1' and @placeholder = 'Ingrese su Contraseña' and @type = 'password']</value>
-      <webElementGuid>8a785230-2add-4982-a4c5-74c1c9319f9b</webElementGuid>
+      <webElementGuid>c01348e8-fee4-4ee5-adfd-5e1f3b3f284d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

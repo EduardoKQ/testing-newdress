@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>ion-button</value>
-      <webElementGuid>ec6320fe-9d95-4973-b8ba-6fdd6a24e018</webElementGuid>
+      <webElementGuid>2e7e9f93-00a5-40bd-bfba-00d6fe310389</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>expand</name>
       <type>Main</type>
       <value>block</value>
-      <webElementGuid>c93fa066-f321-4666-89be-0ae81415c8bd</webElementGuid>
+      <webElementGuid>38dd15be-0931-4eb9-b846-22dd8229a837</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>fill</name>
       <type>Main</type>
       <value>solid</value>
-      <webElementGuid>7c33a05b-7d8e-4848-9345-6d2f8410b7f4</webElementGuid>
+      <webElementGuid>53ff1c3d-69de-4971-aff4-8e78c824027f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>shape</name>
       <type>Main</type>
       <value>round</value>
-      <webElementGuid>8ed9ba11-2def-4e30-9794-39aaca708402</webElementGuid>
+      <webElementGuid>0f60cfec-c66b-4683-95d3-5c570a6f35f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ion-justify-content-center md button button-block button-round button-solid ion-activatable ion-focusable hydrated ion-activated</value>
-      <webElementGuid>9872f6ff-977b-4bb9-bf01-93fd0135bae4</webElementGuid>
+      <webElementGuid>c92bc404-08fd-4345-92db-2664eda7223e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>ng-reflect-expand</name>
       <type>Main</type>
       <value>block</value>
-      <webElementGuid>a8813bc0-ae17-40c8-bb78-aff39b8f8daa</webElementGuid>
+      <webElementGuid>c5aadf5e-001d-45e0-8e60-20358d53db41</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>ng-reflect-fill</name>
       <type>Main</type>
       <value>solid</value>
-      <webElementGuid>8a4706ee-9203-478e-9e44-8e7e8dd6b1f7</webElementGuid>
+      <webElementGuid>eb0eb19a-59f9-4de8-bc70-10557dc6d6bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>ng-reflect-shape</name>
       <type>Main</type>
       <value>round</value>
-      <webElementGuid>d596d984-fff7-44f0-84c3-2a09a3d26872</webElementGuid>
+      <webElementGuid>4ef0396e-1995-4854-b455-691883523373</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>text</name>
       <type>Main</type>
       <value> INICIAR SESION </value>
-      <webElementGuid>7903cac8-518b-4481-8803-68c99ed4fe66</webElementGuid>
+      <webElementGuid>98add957-6d4b-47d5-8023-0e414afdcb67</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;plt-desktop md hydrated&quot;]/body[1]/app-root[1]/ion-app[@class=&quot;md ion-page hydrated&quot;]/ion-router-outlet[@class=&quot;hydrated&quot;]/app-login[@class=&quot;ion-page&quot;]/ion-content[@class=&quot;md content-ltr hydrated&quot;]/ion-list[@class=&quot;list ion-padding md list-md list-lines-none list-md-lines-none hydrated&quot;]/ion-button[@class=&quot;ion-justify-content-center md button button-block button-round button-solid ion-activatable ion-focusable hydrated ion-activated&quot;]</value>
-      <webElementGuid>383a97b1-f6f1-4ca9-9819-d7851e80a3c9</webElementGuid>
+      <webElementGuid>f3d610af-0a1e-48f2-8f58-2551bef42cd3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Olvidaste la Contraseña?'])[1]/following::ion-button[1]</value>
-      <webElementGuid>c2fbbf22-dd9a-4caf-9e72-be99b6f5c93b</webElementGuid>
+      <webElementGuid>f6e11055-c9af-445f-8af5-b847d19a1158</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Contraseña'])[2]/following::ion-button[1]</value>
-      <webElementGuid>712e0cf6-bcbd-4eca-b355-fc620514b1a2</webElementGuid>
+      <webElementGuid>e49054c4-6ef0-49d9-b625-6a939d8f8ddd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Registrarse'])[1]/preceding::ion-button[1]</value>
-      <webElementGuid>5025fdd0-b1ad-4a85-9c7a-c1c7b1584617</webElementGuid>
+      <webElementGuid>340ab3fc-d836-4165-b742-ef67ea7746d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='INICIAR SESION']/parent::*</value>
-      <webElementGuid>da6fead8-b265-4aa8-bb0f-fbdba98648ee</webElementGuid>
+      <webElementGuid>9b41e783-a3c5-4bbf-951d-d56af136c569</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//ion-button</value>
-      <webElementGuid>ceadbbdb-c29e-4df8-aaf0-8ab97f28984c</webElementGuid>
+      <webElementGuid>b6ebc213-b56c-4683-ad59-dde3d29e235e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,6 +149,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//ion-button[(text() = ' INICIAR SESION ' or . = ' INICIAR SESION ')]</value>
-      <webElementGuid>338600db-d511-4ce1-8a18-099ab82d44eb</webElementGuid>
+      <webElementGuid>cf1a6560-3507-49c6-9879-7ba851b5d10d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

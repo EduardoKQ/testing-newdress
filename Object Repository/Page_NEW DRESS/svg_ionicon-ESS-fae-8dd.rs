@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_button-inner-ESS-10b-44f</name>
+   <name>svg_ionicon-ESS-fae-8dd</name>
    <tag></tag>
-   <elementGuidId>6501a9ac-dd89-4c38-a1f0-0f9d07901141</elementGuidId>
+   <elementGuidId>32e32a00-67dd-4d44-a02a-6084651b5326</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.button-native > span.button-inner</value>
+         <value>div.icon-inner > svg.ionicon</value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -18,7 +18,7 @@
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;INICIAR SESION&quot;i]</value>
+         <value>#tab-button-exploracion svg</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,48 +28,48 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>5b2874f0-1489-42d6-afa0-e3e93468bc8f</webElementGuid>
+      <value>svg</value>
+      <webElementGuid>cdde24d0-5b3b-4b6a-8c3c-dad97c8106e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>f68318ad-23b0-4786-bf93-281c438be820</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>button-inner</value>
-      <webElementGuid>fbca2c1a-cb2d-432b-ae15-66ff08fcb69a</webElementGuid>
+      <value>ionicon</value>
+      <webElementGuid>8bdd221c-3f14-47b0-9286-51b19d8add8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 512 512</value>
+      <webElementGuid>2df2ff08-795e-419d-ad62-0e2e67bb0346</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/button[@class=&quot;button-native&quot;]/span[@class=&quot;button-inner&quot;]</value>
-      <webElementGuid>24133279-e0ce-46f9-b42a-b121d05bbcd0</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ref_element_is_shadow_root</name>
-      <type>Main</type>
-      <value>true</value>
-      <webElementGuid>a6a2a878-b640-417c-854e-756580cf0be8</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ref_element_is_shadow_root</name>
-      <type>Main</type>
-      <value>true</value>
-      <webElementGuid>1ac3b604-5193-48b5-91b1-be61845f0436</webElementGuid>
+      <value>/div[@class=&quot;icon-inner&quot;]/svg[@class=&quot;ionicon&quot;]</value>
+      <webElementGuid>f4e347ff-6cd9-4f00-a3d0-7eb848ddb8db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/Page_NEW DRESS/ion-button_INICIAR SESION-W DRESS-10b</value>
-      <webElementGuid>d7819c85-bd99-4da6-b925-839978066265</webElementGuid>
+      <value>Object Repository/Page_NEW DRESS/ion-icon_exploracion_search-W DRESS-fae</value>
+      <webElementGuid>fe510c17-e2ad-42f4-854a-337e0e17de07</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>ref_element_is_shadow_root</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>447d8d8a-45a4-4fe6-9103-eb3863a43f2f</webElementGuid>
+      <webElementGuid>960cf237-2a7b-48c8-ba5d-6c8b5bf3fa27</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,6 +85,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='']/parent::*</value>
-      <webElementGuid>ae056774-e018-4536-96b1-dbf04a06a921</webElementGuid>
+      <webElementGuid>1300ae5a-eb0f-455b-b5bd-8ad3bd46ba76</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
