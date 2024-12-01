@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>13 Restablecer contraseña con correo valido</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>75bbc28a-e2c1-4013-b13f-54186b085797</testCaseGuid>
+</TestCaseEntity>

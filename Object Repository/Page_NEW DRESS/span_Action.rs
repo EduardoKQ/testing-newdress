@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>1aa63610-ac10-4b42-9df5-62e1ee625e69</webElementGuid>
+      <webElementGuid>1dd25207-e005-484c-b7fc-a144c4cf0911</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>alert-button-inner sc-ion-alert-md</value>
-      <webElementGuid>537bedab-2c54-4f0e-8dca-16f0b51560dd</webElementGuid>
+      <webElementGuid>330ebf94-64ce-4ea1-a7bd-a073d62de951</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Action</value>
-      <webElementGuid>f16777a3-7e12-485b-8ce4-d3df280d6132</webElementGuid>
+      <webElementGuid>23c52771-7128-47d6-bbeb-e9e1b7ffa8af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ion-overlay-1&quot;)/div[@class=&quot;alert-wrapper ion-overlay-wrapper sc-ion-alert-md&quot;]/div[@class=&quot;alert-button-group sc-ion-alert-md&quot;]/button[@class=&quot;alert-button ion-focusable ion-activatable sc-ion-alert-md ion-activated&quot;]/span[@class=&quot;alert-button-inner sc-ion-alert-md&quot;]</value>
-      <webElementGuid>6faad93a-b953-4f93-86db-00cac537aa3e</webElementGuid>
+      <webElementGuid>d3b35d19-a410-4fa3-b1b8-f87cb35dec70</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,47 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ion-alert[@id='ion-overlay-1']/div[2]/div[3]/button/span</value>
-      <webElementGuid>2617f725-d66e-4d36-87a0-8f3b94995a34</webElementGuid>
+      <webElementGuid>d5b8c85b-660d-4311-be0c-5839328c6eda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Se ha enviado un correo para restablecer la contraseña.'])[1]/following::span[1]</value>
+      <webElementGuid>9dbc24cb-d4b5-4284-951d-3d24983e6d79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Correo Enviado'])[1]/following::span[1]</value>
+      <webElementGuid>d13b2c6a-7a73-40ed-8f86-1c5978d19167</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Action']/parent::*</value>
+      <webElementGuid>4472ce31-01cd-4461-bedf-9d38184782a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>d5cacb12-b27b-4200-a9af-5e454bf1260c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Action' or . = 'Action')]</value>
+      <webElementGuid>e94e7ab1-1ce7-487a-96d3-a28ef929cd6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,30 +118,6 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Registrarse'])[1]/following::span[1]</value>
       <webElementGuid>7948fd8e-85c3-4c9a-a981-b982e88bfb65</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Action']/parent::*</value>
-      <webElementGuid>e1eb48ed-f07c-4ed6-8e74-1d30a808c164</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//span</value>
-      <webElementGuid>706216c6-7b60-44eb-97c8-c5d5acae395b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//span[(text() = 'Action' or . = 'Action')]</value>
-      <webElementGuid>cabfb388-eb60-40b6-87b0-04c60570e7e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
