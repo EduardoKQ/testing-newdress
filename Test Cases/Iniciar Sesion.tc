@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>New Test Case</name>
+   <name>Iniciar Sesion</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>05a2956b-9eff-4ab4-a33c-a0d6d18b9309</testCaseGuid>
+   <testCaseGuid>836c4f86-7740-48a5-80a3-75676cc6e567</testCaseGuid>
 </TestCaseEntity>

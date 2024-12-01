@@ -21,26 +21,11 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:8100/intro')
 
-WebUI.setText(findTestObject('Object Repository/Page_NEW DRESS/input_Usuario_ion-input-0'), 'OR 1=1 --')
+WebUI.setText(findTestObject('Object Repository/Page_NEW DRESS/input_Usuario_ion-input-0'), 'testing')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_NEW DRESS/input_Contrasea_ion-input-1'), 'tzH6RvlfSTg=')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_NEW DRESS/input_Contrasea_ion-input-1'), 'aeHFOx8jV/A=')
 
 //Click the "Iniciar Sesion" button
 WebUI.waitForElementClickable(findTestObject('Object Repository/Page_NEW DRESS/button_Iniciar_Sesion'), 10)
 WebUI.click(findTestObject('Object Repository/Page_NEW DRESS/button_Iniciar_Sesion'))
-
-// Step 3: Wait for response
-WebUI.delay(5)  // Adjust the delay as needed based on expected loading time
-
-// Step 4: Check for error response text
-def errorMessage = WebUI.getText(findTestObject('Object Repository/Page_NEW DRESS/error_message')) // Update to the actual object for error message
-
-if (errorMessage) {
-    WebUI.comment("Error response: " + errorMessage)
-} else {
-    WebUI.comment("No error response found.")
-}
-
-// Close the browser at the end
-WebUI.closeBrowser()
 
