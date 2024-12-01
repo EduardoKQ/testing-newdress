@@ -3,7 +3,7 @@
    <description></description>
    <name>span_button-inner-ESS-bd4-df4</name>
    <tag></tag>
-   <elementGuidId>27d5273f-f588-44c8-95ea-fe4464c09beb</elementGuidId>
+   <elementGuidId>dea4fcf6-391e-4b2d-a306-51fdbcc9a471</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>e7697ac8-d560-4b2b-a783-f937b4d23733</webElementGuid>
+      <webElementGuid>1035ec25-208e-4af5-b56d-3d17801061b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>button-inner</value>
-      <webElementGuid>e284f821-a211-4200-a16a-407d15556228</webElementGuid>
+      <webElementGuid>05238d10-b68a-491a-b267-ae75bf569f09</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,15 +39,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/button[@class=&quot;button-native&quot;]/span[@class=&quot;button-inner&quot;]</value>
-      <webElementGuid>da9ef725-2759-4ed2-89fe-126d0a610ebc</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ref_element</name>
-      <type>Main</type>
-      <value>Object Repository/Page_NEW DRESS/ion-button_INICIAR SESION-W DRESS-bd4</value>
-      <webElementGuid>16c302cd-32e2-4f91-a327-2d4552e6b26d</webElementGuid>
+      <webElementGuid>59b0f335-90f0-4854-b15e-5ade2f57e1a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +47,15 @@
       <name>ref_element_is_shadow_root</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>488bafdd-6f94-4ec2-915a-ea510048dce1</webElementGuid>
+      <webElementGuid>a9e7c010-b1be-418b-9589-d0dafef535be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_NEW DRESS/ion-button_INICIAR SESION-W DRESS-bd4</value>
+      <webElementGuid>cc1e54c1-435a-4ca4-b9d9-ff945288e86d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,6 +63,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='']/parent::*</value>
-      <webElementGuid>f7722bb8-a7bc-4d1e-a155-0e0e41cb4c79</webElementGuid>
+      <webElementGuid>8e0634d8-c2a3-4c9b-a46d-20a90f66b62b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

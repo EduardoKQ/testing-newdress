@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Verificación de entrada no válida en formulario de inicio de sesión</name>
+   <name>New Test Case</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>3b28984e-c97b-4f67-b9d7-98ef3384dcf5</testCaseGuid>
+   <testCaseGuid>05a2956b-9eff-4ab4-a33c-a0d6d18b9309</testCaseGuid>
 </TestCaseEntity>
