@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>12 Inicio de sesion con credenciales validas</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>387c382f-8e20-4211-914b-9aa8b4642884</testCaseGuid>
+</TestCaseEntity>

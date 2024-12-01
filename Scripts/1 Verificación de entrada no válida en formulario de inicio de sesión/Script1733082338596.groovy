@@ -21,9 +21,9 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://localhost:8100/intro')
 
-WebUI.setText(findTestObject('Object Repository/Page_NEW DRESS/input_Usuario_ion-input-0'), 'OR 1=1 --')
+WebUI.setText(findTestObject('Object Repository/Page_NEW DRESS/input_Usuario_ion-input'), 'OR 1=1 --')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_NEW DRESS/input_Contrasea_ion-input-1'), 'tzH6RvlfSTg=')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_NEW DRESS/input_Contrasea_ion-input'), 'tzH6RvlfSTg=')
 
 //Click the "Iniciar Sesion" button
 WebUI.waitForElementClickable(findTestObject('Object Repository/Page_NEW DRESS/button_Iniciar_Sesion'), 10)

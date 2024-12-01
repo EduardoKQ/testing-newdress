@@ -18,14 +18,15 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
-WebUI.navigateToUrl('http://localhost:8100/login')
-WebUI.click(findTestObject('Object Repository/Page_NEW DRESS/div_Usuario_native-wrapper sc-ion-input-md _371c1b'))
-WebUI.setText(findTestObject('Object Repository/Page_NEW DRESS/input_Usuario_ion-input'), 'testing')
-WebUI.click(findTestObject('Object Repository/Page_NEW DRESS/div_Contrasea_native-wrapper sc-ion-input-m_aa1609'))
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_NEW DRESS/input_Contrasea_ion-input'), 'aeHFOx8jV/A=')
-WebUI.waitForElementClickable(findTestObject('Object Repository/Page_NEW DRESS/button_Iniciar_Sesion'), 10)
-WebUI.click(findTestObject('Object Repository/Page_NEW DRESS/button_Iniciar_Sesion'))
-WebUI.delay(5)
-WebUI.click(findTestObject('Object Repository/Page_NEW DRESS/svg_ionicon-ESS-fae-8dd'))
 
+WebUI.navigateToUrl('http://localhost:8100/intro')
+
+WebUI.setText(findTestObject('Object Repository/Page_NEW DRESS/input_Usuario_ion-input'), 'Kate')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_NEW DRESS/input_Contrasea_ion-input'), 'aeHFOx8jV/A=')
+
+//Click the "Iniciar Sesion" button
+WebUI.waitForElementClickable(findTestObject('Object Repository/Page_NEW DRESS/button_Iniciar_Sesion'), 10)
+
+WebUI.click(findTestObject('Object Repository/Page_NEW DRESS/button_Iniciar_Sesion'))
 

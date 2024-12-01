@@ -6,12 +6,12 @@
    <UUID>6c6099e5-6955-44e7-8343-56bb86e2fe54</UUID>
    <createdEdition>FREE</createdEdition>
    <createdVersion>10.0.0</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
-   <modifiedEdition>ENTERPRISE</modifiedEdition>
+   <modifiedEdition>FREE</modifiedEdition>
    <modifiedVersion>10.0.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\kevin\git\testing-newd\Entrega 3 ropa web.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\Eduardo\Katalon Studio\Entrega 3 ropa web\Entrega 3 ropa web.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
