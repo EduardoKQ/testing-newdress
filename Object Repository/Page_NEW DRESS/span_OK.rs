@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_OK</name>
+   <tag></tag>
+   <elementGuidId>2807efc9-4e4d-41e7-b2f5-fd4364c28f8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.alert-button.ion-focusable.ion-activatable.sc-ion-alert-md.ion-activated > span.alert-button-inner.sc-ion-alert-md</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ion-alert[@id='ion-overlay-2']/div[2]/div[4]/button[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;OK&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>db6d9e51-c80f-45ac-88b0-8f0d56c536f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>alert-button-inner sc-ion-alert-md</value>
+      <webElementGuid>2f94edb4-edb1-449e-8149-189a837ba227</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OK</value>
+      <webElementGuid>7cd143e3-ce89-4c7d-ab1e-4b1cef4470ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ion-overlay-2&quot;)/div[@class=&quot;alert-wrapper ion-overlay-wrapper sc-ion-alert-md&quot;]/div[@class=&quot;alert-button-group sc-ion-alert-md&quot;]/button[@class=&quot;alert-button ion-focusable ion-activatable sc-ion-alert-md ion-activated&quot;]/span[@class=&quot;alert-button-inner sc-ion-alert-md&quot;]</value>
+      <webElementGuid>811deb66-089b-426d-bfde-ac5170b596a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ion-alert[@id='ion-overlay-2']/div[2]/div[4]/button[2]/span</value>
+      <webElementGuid>5d1f4a37-cb57-486f-a7b6-e6c84df0031f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[1]</value>
+      <webElementGuid>cd9e2b51-62a5-4ab4-8acf-3a5e9c80f21d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privada'])[2]/following::span[2]</value>
+      <webElementGuid>b009652e-ed43-4160-998e-d0bd5e3ea864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='OK']/parent::*</value>
+      <webElementGuid>aee9b1ab-3eab-42b5-9e5c-e72778f04f58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>ed34d79b-7ad3-4db9-85a0-fea79dd69887</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'OK' or . = 'OK')]</value>
+      <webElementGuid>95fd52fb-22d5-4ee3-8583-95399148748c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

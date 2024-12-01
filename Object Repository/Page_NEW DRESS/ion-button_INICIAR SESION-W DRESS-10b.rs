@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ion-button_INICIAR SESION-W DRESS-10b</name>
+   <tag></tag>
+   <elementGuidId>5c71f1c4-2368-4ef4-83f3-643cc347f7b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ion-button.ion-justify-content-center.md.button.button-block.button-round.button-solid.ion-activatable.ion-focusable.hydrated.ion-activated</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Olvidaste la Contraseña?'])[1]/following::ion-button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;INICIAR SESION&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ion-button</value>
+      <webElementGuid>ec6320fe-9d95-4973-b8ba-6fdd6a24e018</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>expand</name>
+      <type>Main</type>
+      <value>block</value>
+      <webElementGuid>c93fa066-f321-4666-89be-0ae81415c8bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>solid</value>
+      <webElementGuid>7c33a05b-7d8e-4848-9345-6d2f8410b7f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>shape</name>
+      <type>Main</type>
+      <value>round</value>
+      <webElementGuid>8ed9ba11-2def-4e30-9794-39aaca708402</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ion-justify-content-center md button button-block button-round button-solid ion-activatable ion-focusable hydrated ion-activated</value>
+      <webElementGuid>9872f6ff-977b-4bb9-bf01-93fd0135bae4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-expand</name>
+      <type>Main</type>
+      <value>block</value>
+      <webElementGuid>a8813bc0-ae17-40c8-bb78-aff39b8f8daa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-fill</name>
+      <type>Main</type>
+      <value>solid</value>
+      <webElementGuid>8a4706ee-9203-478e-9e44-8e7e8dd6b1f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-shape</name>
+      <type>Main</type>
+      <value>round</value>
+      <webElementGuid>d596d984-fff7-44f0-84c3-2a09a3d26872</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> INICIAR SESION </value>
+      <webElementGuid>7903cac8-518b-4481-8803-68c99ed4fe66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;plt-desktop md hydrated&quot;]/body[1]/app-root[1]/ion-app[@class=&quot;md ion-page hydrated&quot;]/ion-router-outlet[@class=&quot;hydrated&quot;]/app-login[@class=&quot;ion-page&quot;]/ion-content[@class=&quot;md content-ltr hydrated&quot;]/ion-list[@class=&quot;list ion-padding md list-md list-lines-none list-md-lines-none hydrated&quot;]/ion-button[@class=&quot;ion-justify-content-center md button button-block button-round button-solid ion-activatable ion-focusable hydrated ion-activated&quot;]</value>
+      <webElementGuid>383a97b1-f6f1-4ca9-9819-d7851e80a3c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Olvidaste la Contraseña?'])[1]/following::ion-button[1]</value>
+      <webElementGuid>c2fbbf22-dd9a-4caf-9e72-be99b6f5c93b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contraseña'])[2]/following::ion-button[1]</value>
+      <webElementGuid>712e0cf6-bcbd-4eca-b355-fc620514b1a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Registrarse'])[1]/preceding::ion-button[1]</value>
+      <webElementGuid>5025fdd0-b1ad-4a85-9c7a-c1c7b1584617</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='INICIAR SESION']/parent::*</value>
+      <webElementGuid>da6fead8-b265-4aa8-bb0f-fbdba98648ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ion-button</value>
+      <webElementGuid>ceadbbdb-c29e-4df8-aaf0-8ab97f28984c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ion-button[(text() = ' INICIAR SESION ' or . = ' INICIAR SESION ')]</value>
+      <webElementGuid>338600db-d511-4ce1-8a18-099ab82d44eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
