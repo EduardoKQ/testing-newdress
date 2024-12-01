@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>17 Mostrar clima en apartado principal</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7941f00a-09ce-4c2b-a2f1-909dad11e8e2</testCaseGuid>
+</TestCaseEntity>

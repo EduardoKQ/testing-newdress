@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>8230937a-eb33-4273-b19a-079e3aec461d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ion-toolbar[@id='ion-toolbar']/ion-grid/ion-row/ion-col[5]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ion-col img[alt='Weather Icon']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>178908b4-05c5-4dbd-8e96-159ad7d72991</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Weather Icon</value>
+      <webElementGuid>5b12a136-4c48-4d9f-a14b-059c49ad7d49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://openweathermap.org/img/wn/01d@2x.png</value>
+      <webElementGuid>23192210-95bc-4e71-bdb8-0bda4d74052a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ion-toolbar&quot;)/ion-grid[@class=&quot;md hydrated&quot;]/ion-row[@class=&quot;md hydrated&quot;]/ion-col[@class=&quot;md hydrated&quot;]/img[1]</value>
+      <webElementGuid>810bd30c-c1c4-416e-808c-a493b47b5200</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ion-toolbar[@id='ion-toolbar']/ion-grid/ion-row/ion-col[5]/img</value>
+      <webElementGuid>eaea4d79-159c-4342-a0b6-7db75f5a438a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Weather Icon']</value>
+      <webElementGuid>a77631e3-e1b2-4690-b71b-2b4c08f9f413</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ion-col[5]/img</value>
+      <webElementGuid>0cb14ec1-2e33-4b6b-9a73-93ef8364528b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Weather Icon' and @src = 'https://openweathermap.org/img/wn/01d@2x.png']</value>
+      <webElementGuid>0bbf457f-368d-449f-8025-bbf41c5ccf14</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
